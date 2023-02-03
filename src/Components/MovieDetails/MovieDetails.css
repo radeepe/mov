@@ -1,0 +1,13 @@
+.PageHeader {
+    height: 10rem;
+    padding: 4rem 0 0 0;
+}
+
+.images {
+    height: 100px;
+    width: 100px;
+}
+
+.btnText {
+    text-shadow: 1px 1px ;
+}
